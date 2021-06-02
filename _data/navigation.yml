@@ -1,0 +1,13 @@
+main:
+  - title: "PolarFire SoC"
+    url:  /docs/polarfire-soc/
+  - title: "Mi-V Soft CPUs"
+    url: "/docs/mi-v-soft-cpu/"
+  - title: "Tools"
+    url:  "/docs/tools/"
+  - title: "Training"
+    url: /docs/training/     
+  - title: "FAQ"
+    url:  "/docs/faqs/"    
+  - title: "Support"
+    url: /docs/support/     
