@@ -15,10 +15,11 @@ Before attempting to run either Buildroot or Yocto please make sure that you are
 | **Buildroot**  | **Yocto** |
 | Building Linux Using Buildroot | Building Linux Using Yocto |
 | The below links will describe how to build and Linux image using Buildroot and load the image to a PolarFire SoC device. | The below links will describe how to build and Linux image using Yocto and load the image to a PolarFire SoC device. |
+| 0. [Host PC Configuration](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#supported-build-hosts)  |0. [Host PC Configuration](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#host-pc-setup-for-yocto) |
 | 1. [Build Instructions](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#build-instructions) | 1. [Build Instructions](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#build-instructions) |
 | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#loading-the-image-onto-the-target) | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#copy-the-created-disk-image-to-flash-device-usb-mmc-flashsdusd) | 
 | 3. [Rebuilding the Linux image](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#rebuilding-the-linux-image) | 3. [Rebuilding the Linux image]() |
-| | Below are several video to explain how to build a Yocto image for PolarFire SoC.  |
+| | Below are several videos to explain how to build a Yocto image for PolarFire SoC.  |
 
 ## References
 PolarFire SoC Documentation 
@@ -31,7 +32,7 @@ YouTube:
 * [Getting back to factory defaults](https://www.youtube.com/watch?v=dL3u6pYWFvQ&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=5)
 * [Factory MSS configuration for the Icicle Kit]( https://www.youtube.com/watch?v=mXp5cNg4qbY&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=6)
 * [What is the HSS](https://www.youtube.com/watch?v=UKGVAl3BOog&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=8)
-* [MSS Configurator Run through](https://www.youtube.com/watch?v=WrkmaJingRg&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=7)
+* [MSS Configurator Run Through](https://www.youtube.com/watch?v=WrkmaJingRg&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=7)
 
 
 
