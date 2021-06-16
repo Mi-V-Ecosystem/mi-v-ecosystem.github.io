@@ -17,7 +17,7 @@ feature_row:
   - image_path: /assets/images/200602-FPGA-SOC-PolarFire-SoC-Marketo-300x500.jpg
     alt: "customizable"
     title: "PolarFire SoC"
-    excerpt: "They're the hard processors."
+    excerpt: "SoC FPGAs with hard RISC-V processors."
     url:  "/docs/polarfire-soc/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
