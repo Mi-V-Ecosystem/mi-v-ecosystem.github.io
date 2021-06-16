@@ -11,7 +11,7 @@ feature_row:
   - image_path: /assets/images/terminals-linux-300x500.png
     alt: "customizable"
     title: "Linux Developer"
-    excerpt: "Infomation to aid a Linux Developer to program on the Icicle Kit using programs such as Yocto and Buildroot."
+    excerpt: "Explore Linux on PolarFire SoC hardware platforms with Yocto, Buildroot and more."
     url:  "/docs/linux-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
