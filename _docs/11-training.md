@@ -29,4 +29,4 @@ last_modified_at: 2018-01-10T11:22:01-05:00
 * [PolarFire SoC - MSS Configurator Run through](https://www.youtube.com/watch?v=WrkmaJingRg&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=7)
 
 ## Webinars
-*  [Renode Webinar Series](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#renode-webinar-series)
+*  [Getting started with PolarFire SoC - Renode Webinar Series](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#renode-webinar-series)
