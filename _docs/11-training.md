@@ -24,7 +24,7 @@ last_modified_at: 2018-01-10T11:22:01-05:00
 9. [PolarFire® SoC - Introduction to GPIO/UIO Drivers and Yocto SDK](https://www.youtube.com/watch?v=VT5oON9JLSI&list=PL9B4edd-p2aiesb5K9TKQpoyGJlPAmq8x)
 10. [PolarFire® SoC - Linux: Connecting a PCIe End Point Introduction](https://www.youtube.com/watch?v=5TRqqz0KvR4&list=PL9B4edd-p2ajK-nEhjLyhaHENgfw2Zs9B)
 11. [PolarFire® SoC - Github introduction](https://www.youtube.com/watch?v=-e_OniBC5nU&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=4)
-12. [PolarFire® SoC - Bare Metal Interrupts](https://www.youtube.com/watch?v=DOL7GBTKOoA&list=PL9B4edd-p2ahg_MASDPEwOy8spzsL5_f5)
+12. [PolarFire® SoC - Using the PolarFire® SoC Bare Metal Library](https://www.youtube.com/watch?v=jkFQthUPYtY&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=2)
 13. [PolarFire® SoC - Getting back to factory defaults](https://www.youtube.com/watch?v=dL3u6pYWFvQ&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=5)
 14. [PolarFire® SoC - Factory MSS configuration for the Icicle Kit]( https://www.youtube.com/watch?v=mXp5cNg4qbY&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=6)
 15. [PolarFire® SoC - What is the HSS](https://www.youtube.com/watch?v=UKGVAl3BOog&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=8)
