@@ -25,7 +25,7 @@ feature_row:
   - image_path: /assets/images/FPGA_Developer-300x500.png
     alt: "100% free"
     title: "FPGA Developers"
-    excerpt: "Programs needed to work on FPGA Developer."
+    excerpt: "Explore FPGA design tools to customize your system designs."
     url: "/docs/fpga-user/"
     btn_class: "btn--primary"
     btn_label: "Getting Started" 
