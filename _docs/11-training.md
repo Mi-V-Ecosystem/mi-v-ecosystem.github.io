@@ -11,7 +11,7 @@ last_modified_at: 2018-01-10T11:22:01-05:00
 ---
 
 # Training Material
-## Below is a list of training available on Youtube.
+## Training videos on YouTube
 
 * [FPGA](https://www.youtube.com/watch?v=8cXOZ-V31kA&list=PL9B4edd-p2ajpeOI4k4Lr_fwXcRlwO3dv)
 * [PolarFire SoC - Debugging a Bare Metal Application](https://www.youtube.com/watch?v=F4_wR3e62og&list=PL9B4edd-p2ahc3AQdBAmGfAyo_pcDW0Tg)
