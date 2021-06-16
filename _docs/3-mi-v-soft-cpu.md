@@ -11,10 +11,12 @@ last_modified_at: 2018-01-10T11:22:01-05:00
 ---
 ### Mi-V Soft CPUs
 Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions.
-- MIV_RV32
-- MIV_RV32IMA_L1_AHB
-- MIV_RV32IMA_L1_AXI
-- MIV_RV32IMAF_L1_AHB
+* MIV_RV32
+* MIV_RV32IMA_L1_AHB * 
+* MIV_RV32IMA_L1_AXI * 
+* MIV_RV32IMAF_L1_AHB *
+
+\*Legacy cores. MIV_RV32 recommended for new designs
   
 ### Hardware platforms and boards
 Mi-V Ecosystem supports following hardware platforms.
