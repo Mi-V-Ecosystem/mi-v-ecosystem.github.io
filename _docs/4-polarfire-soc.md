@@ -17,7 +17,7 @@ feature_row:
     btn_label: "Getting Started"
   - image_path: /assets/images/bare_metal_developer-300x500.png
     alt: "fully responsive"
-    title: "Bare Metal Developer"
+    title: "Bare Metal Developers"
     excerpt: "Develop Bare Metal and RTOS systems on PolarFire SoC."
     url: "/docs/baremetal-user/"
     btn_class: "btn--primary"
