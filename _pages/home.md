@@ -24,7 +24,7 @@ feature_row:
   - image_path: /assets/images/190731-FPGA-Risc-v-webinar-300x500.jpg
     alt: "fully responsive"
     title: "Mi-V Soft CPUs"
-    excerpt: "They're the soft processors"
+    excerpt: "Mi-V soft RISC-V processors"
     url: "/docs/mi-v-soft-cpu/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"
