@@ -31,7 +31,7 @@ feature_row:
   - image_path: /assets/images/Toolbox_iStock_300x500.png
     alt: "100% free"
     title: "Tools"
-    excerpt: "We have them :) "
+    excerpt: "Development Tools"
     url: "/docs/tools/"
     btn_class: "btn--primary"
     btn_label: "Getting Started" 
