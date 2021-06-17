@@ -22,7 +22,6 @@ Mi-V Ecosystem supports following RV32I base instruction set processors with opt
 Mi-V Ecosystem supports following hardware platforms.
 
 #### Microchip PolarFire FPGAs
-* [PolarFire Evaluation kit](/docs/polarfire-evaluation-kit/)
 * [PolarFire-Evaluation-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-Eval-Kit/)
 * [PolarFire-Splash-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-FPGA-Splash-Kit/)
 * [Arrow-Everest-Board](https://mi-v-soft-risc-v.github.io/Arrow-Everest-Board/)
