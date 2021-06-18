@@ -10,7 +10,7 @@ excerpt: "Welcome to the Mi-V Soft CPU Page."
 last_modified_at: 2018-01-10T11:22:01-05:00
 ---
 ### Mi-V Soft CPUs
-Mi-V Ecosystem supports following RV32I base instruction set processors with optional extensions.
+The Mi-V Ecosystem supports the following RV32I base instruction set processors with optional extensions.
 * MIV_RV32
 * MIV_RV32IMA_L1_AHB * 
 * MIV_RV32IMA_L1_AXI * 
