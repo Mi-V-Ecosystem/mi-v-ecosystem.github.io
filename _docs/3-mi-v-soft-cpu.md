@@ -16,10 +16,10 @@ The Mi-V Ecosystem supports the following RV32I base instruction set processors 
 * MIV_RV32IMA_L1_AXI * 
 * MIV_RV32IMAF_L1_AHB *
 
-  \*Legacy cores. MIV_RV32 recommended for new designs
+  \*Legacy cores. MIV_RV32 recommended for new designs.
   
 ### Hardware platforms and boards
-The Mi-V Ecosystem supports the following hardware platforms.The Mi-V Ecosystem supports the following hardware platforms.
+The Mi-V Ecosystem supports the following hardware platforms.
 
 #### Microchip PolarFire FPGAs
 * [PolarFire-Evaluation-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-Eval-Kit/)
