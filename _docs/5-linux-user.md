@@ -19,7 +19,7 @@ Before attempting to run either Buildroot or Yocto, please make sure that you ar
 | 1. [Build Instructions](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#build-instructions) | 1. [Build Instructions](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#build-instructions) |
 | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#loading-the-image-onto-the-target) | 2. [Loading the Linux image to the target](https://github.com/polarfire-soc/meta-polarfire-soc-yocto-bsp#copy-the-created-disk-image-to-flash-device-usb-mmc-flashsdusd) | 
 | 3. [Rebuilding the Linux image](https://github.com/polarfire-soc/polarfire-soc-buildroot-sdk#rebuilding-the-linux-image) | 3. [Rebuilding the Linux image]() |
-| | There are several videos to explain how to build a Yocto image for PolarFire SoC.  |
+| | There are several reference videos to explain how to build a Yocto image for PolarFire SoC.  |
 
 ## References
 PolarFire SoC Documentation 
