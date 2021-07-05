@@ -10,16 +10,32 @@ excerpt: "Welcome to the Bare Metal User page."
 last_modified_at: 2018-01-10T11:22:01-05:00
 ---
 
-# Getting Started
+# Introduction
 
-1. Download the Icicle kit reference design
-2. Follow QSG -> OOBE (Boot linux and load webserver)
-3. Load latest factory images (Linux + U-Boot, HSS, Bitstream
-4. Development Flow (Bare Metal)
-    * Bare Metal FirmWare
-    * Import bare metal SDK
-    * Add / edit bare meatl application
-    * Build Bare metal application as HSS payload
-    * Program bare metal image with USBDMSC
+Before attempting to run a bare metal application, please make sure that you are 
+using the [latest release](https://github.com/polarfire-soc/icicle-kit-reference-design/releases) of the Icicle Kit Reference design. 
+The process of programming the design using FlashPro Express programming tool 
+is explained [here](https://github.com/polarfire-soc/polarfire-soc-documentation/blob/c4f74333d3b68efe0a6eb5ddfa1c95df6c020960/software-development/polarfire-soc-software-tool-flow.md#using-flashpro-express).
 
-5. Use USBDMSC to flash the eMMC & test
+## Bare metal applications
+To get started with the bare metal applications, a number of ready to use bare metal example applications are available at 
+[polarfire-soc-bare-metal-examples](https://github.com/polarfire-soc/polarfire-soc-bare-metal-examples).
+
+## The Platform software
+Latest releases of the Microchip provided PolarFire SoC bare metal platform 
+software are available at [platform](https://github.com/polarfire-soc/platform).
+
+## SoftConsole
+To use the bare metal applications, [download and install](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
+the SoftConsole IDE. SoftConsole is Microchip's Eclipse based embedded software 
+development IDE with support for RISC-V targets including PolarFire SoC. 
+SoftConsole is available free of charge without a license.
+
+## Hart Software Services (HSS)
+The [HSS](https://github.com/polarfire-soc/hart-software-services) can act as a 
+bootloader when you want your application to execute from RAM (DDR or LIM). 
+Please refer to the [hss-payload-generator](https://github.com/polarfire-soc/polarfire-soc-documentation/blob/master/software-development/hss-payloads.md#role-of-the-hss-payload-generator-) for more information.
+
+## References
+To build your own applications and to understand more about the bare metal
+project structure, refer to the [bare-metal-project-structure](https://github.com/polarfire-soc/polarfire-soc-documentation/bare-metal-project-structure).
