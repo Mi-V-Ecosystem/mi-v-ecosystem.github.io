@@ -10,7 +10,7 @@ excerpt: "Welcome to the Linux User page."
 ---
 
 # Introduction 
-Before attempting to run either Buildroot or Yocto please make sure that you are using the latest release of the Icicle Kit Reference design. The Icicle Kit Reference design can be found [here](https://github.com/polarfire-soc/icicle-kit-reference-design/releases).
+Before attempting to run either Buildroot or Yocto, please make sure that you are using the latest release of the [Icicle Kit Reference design](https://github.com/polarfire-soc/icicle-kit-reference-design/releases).
 
 | **Buildroot**  | **Yocto** |
 | Building Linux Using Buildroot | Building Linux Using Yocto |
