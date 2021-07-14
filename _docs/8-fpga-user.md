@@ -13,21 +13,20 @@ excerpt: "Welcome to the FPGA User page."
 
 1. Import the Icicle kit libero [reference design](https://github.com/polarfire-soc/icicle-kit-reference-design/releases)
 2. Are you changing the MSS Fabric Interface?
-  a. If yes, open the MSS configurator.
-  b. Add/edit the peripherals.
-  c. Change the pin assignment of the MSS peripherals.
-  d. Edit the FIC configuration.
-  e. Edit the clock configuration.
-  f. Change the MSSIO congiguration.
-  g. Edit the L2 memory partition.
-  h. continue onto point 3.
+   - If yes, open the MSS configurator.
+   - Add/edit the peripherals.
+   - Change the pin assignment of the MSS peripherals.
+   - Edit the FIC configuration.
+   - Edit the clock configuration.
+   - Change the MSSIO congiguration.
+   - Edit the L2 memory partition.
+   - continue onto point 3.
 3. if not,  import the MSS component.
-  a. Add custom HDL.
-  b. Synthesize.
-  c. Place and Route.
-  d. Initialize eNVM client with HSS binary.
-  e. Program hardware.
+   - Add custom HDL.
+   - Synthesize.
+   - Place and Route.
+   - Initialize eNVM client with HSS binary.
+   - Program hardware.
 4. Are you further decoding the FIC address in the fabirc?
 5. if yes, export the libero memory map, if not continue to point 6.
 6. Program and test the bitstream.
-
