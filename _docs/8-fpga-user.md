@@ -31,17 +31,3 @@ excerpt: "Welcome to the FPGA User page."
 5. if yes, export the libero memory map, if not continue to point 6.
 6. Program and test the bitstream.
 
-
-### Libero SoC 
-[Libero Download page](https://www.microsemi.com/product-directory/design-resources/1750-libero-soc#downloads)
-
-#### Libero Licenses 
-[Libero License page](https://www.microsemi.com/product-directory/design-resources/1711-licensing#overview)
-
-[Free Libero Silver License](https://soc.microsemi.com/portal/default.aspx?r=1)
-
-[Paid Libero Licenses](https://soc.microsemi.com/portal/default.aspx?r=1)
-
-### SoftConsole
-
-[SoftConsole](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
