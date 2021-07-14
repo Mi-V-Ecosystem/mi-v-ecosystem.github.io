@@ -11,7 +11,7 @@ excerpt: "Welcome to the FPGA User page."
 
 ### FPGA Developer 
 
-1. Import the Icicle kit libero [reference design]()
+1. Import the Icicle kit libero [reference design](https://github.com/polarfire-soc/icicle-kit-reference-design/releases)
 2. Are you changing the MSS Fabric Interface?
   a. If yes, open the MSS configurator.
   b. Add/edit the peripherals.
