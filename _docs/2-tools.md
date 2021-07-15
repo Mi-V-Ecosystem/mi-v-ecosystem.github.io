@@ -20,7 +20,7 @@ excerpt: "Welcome to the Tools page."
 [SoftConsole](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
 
 # Renode 
-[Getting Started - Select Renode Button in Step 2](https://www.microsemi.com/product-directory/fpga-soc/5210-mi-v-embedded-ecosystem#getting-started)
+[Renode Documents](https://renode.readthedocs.io/en/latest/)
 
 # Libero Licenses 
 [Libero License page](https://www.microsemi.com/product-directory/design-resources/1711-licensing#overview)
