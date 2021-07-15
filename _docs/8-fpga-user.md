@@ -20,7 +20,7 @@ excerpt: "Welcome to the FPGA User page."
    - Configure the clocks.
    - Change the MSSIO configuration.
    - Configure DDR/L2 memory partition.
-   - Generate the MSS configuration.
+   - Generate the MSS configuration as a MSS component file (cxz).
 3. Follow the Libero SoC design flow:
    - Import the MSS component.
    - Add custom HDL.
@@ -28,9 +28,7 @@ excerpt: "Welcome to the FPGA User page."
    - Synthesize.
    - Place and Route.
    - Initialize eNVM client with HSS binary built with the configuration created in step 2.
-4. Are you further decoding the FIC address in the fabric?
-5. If yes, export the Libero memory map, if not continue to point 6.
-   - Hand over this information to the software developer. 
+4. If you wish to decode the FIC address in the fabric, export the Libero memory map and hand over this information to the software developer to import into the embedded flow.   
 6. Program and test the bitstream.
 
 
