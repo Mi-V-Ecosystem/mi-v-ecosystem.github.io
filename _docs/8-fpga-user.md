@@ -32,3 +32,9 @@ excerpt: "Welcome to the FPGA User page."
 5. If yes, export the Libero memory map, if not continue to point 6.
    - Hand over this information to the software developer. 
 7. Program and test the bitstream.
+
+
+### Reference Material
+[UG0758 User Guide PolarFire FPGA Design Flow Libero SoC](http://coredocs.s3.amazonaws.com/Libero/12_5_0/Tool/pf_des_flow_ug.pdf)
+[MSS configurator tool](https://onlinedocs.microchip.com/pr/GUID-BC096324-C726-48DB-8987-EF2BBC748A73-en-US-1/index.html)
+
