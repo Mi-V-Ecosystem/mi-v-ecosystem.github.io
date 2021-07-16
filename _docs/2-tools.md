@@ -20,6 +20,8 @@ excerpt: "Welcome to the Tools page."
 [SoftConsole](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
 
 # Renode 
+Please refer to the [SoftConsole Release Notes](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads) for details of how to use Renode with SoftConsole.
+
 [Renode Documents](https://renode.readthedocs.io/en/latest/)
 
 # Libero Licenses 
