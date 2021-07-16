@@ -33,7 +33,7 @@ feature_row:
     alt: "100% free"
     title: "Custom Hardware"
     excerpt: "Everything you need to know."
-    url: "/docs/fpga-user/"
+    url: "/docs/coming_soon/"
     btn_class: "btn--primary"
     btn_label: "Getting Started"     
 ---
