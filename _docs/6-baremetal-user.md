@@ -36,4 +36,4 @@ Please refer to the [hss-payload-generator](https://github.com/polarfire-soc/pol
 
 ## References
 To build your own applications and to understand more about the bare metal
-project structure, refer to the [bare-metal-project-structure](https://github.com/polarfire-soc/polarfire-soc-documentation/bare-metal-project-structure).
+project structure, refer to the [bare-metal-project-structure](https://github.com/polarfire-soc/polarfire-soc-documentation/blob/master/bare-metal-project-structure/bare-metal-software-project-structure.md).
