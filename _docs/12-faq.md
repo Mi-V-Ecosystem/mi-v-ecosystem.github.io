@@ -41,3 +41,46 @@ A3: The Icicle Kit reference design states the minimum Libero SoC and SoftConsol
 Q4. Are there any tutorials available? 
 
 A4: Yes, there are many tutorials on the Microchip YouTube channel. These can be accessed through the Training tab on the Mi-V Ecosystem page or through this [link](https://mi-v-ecosystem.github.io/docs/training/) 
+
+Q5. how do I restore my development kit to a known good state? - Release of Kit design and Yocto  
+
+A5: There is a training video which describes this process available [here](Getting Back to Factory Defaults) 
+
+Q6. Do I need to use libero to develop software of PolarFire SoC :   
+
+A6: No, download the reference bitstream and one of the build systems ( Yocto or Buildroot) 
+
+Q7. How do I program a PolarFire SoC FPGA? 
+
+A7: If a  FPExpress file is already generated then you can program the PolarFire SoC FPGA with the bitstream through FPExpress. Or if you are generating your own FPGA design you can use Libero SoC to download the bitstream to the PolarFire SoC FPGA. The [Getting Back to Factory Defaults](https://www.youtube.com/watch?v=dL3u6pYWFvQ&list=PL9B4edd-p2ajvXj0ZflizZI4zgm3Jev_O&index=5) demonstrates how to program the PolarFire SoC FPGA. 
+
+8. 
+
+Q8.1 What is Libero SoC? 
+
+A8.1: Libero SoC is the development environment for Microchip FPGAs. It allows design, synthesis and bitstream generation as well as timing and power information.  
+
+Q8.2 What is SoftConsole? 
+
+A8.2: SoftConsole is the development environment for Bare-metal designs for the PolarFire SoC, Mi-V RV32 as well as Arm Cortex M3/1. SoftConsole is not intended for development of Linux.  
+
+Q8.3 What is FPExpress? 
+
+A8.3: FPExpress is a programming tool which enables programming of the Microchip FPGA with bitstreams. A programming job file is generated in Libero that can be programmed to the FPGA  
+
+Q8.4 What is FlashPro5/6? 
+
+A8.4: FlashPro5/6 are standalone programming devices that are used to download bitstreams to the Microchip FPGA. 
+
+Q8.5 What is Embedded FlashPro6? 
+
+A8.5: Embedded FlashPro6 or eFP6 is the on-board programmer available on the PolarFire SoC Icicle Kit. 
+
+Q9. How much do tools for Icicle Kit cost? 
+
+A9: The device which is on the Icicle Kit is supported with the Libero Silver licence. This allows users to use Libero SoC and SoftConsole free of charge.            
+
+Q10. Do I need an Embedded FP6? 
+
+A10:  Yes, it is a part of the Icicle Kit. A FlashPro6 is available for boards without an Embedded FP6. 
+ 
