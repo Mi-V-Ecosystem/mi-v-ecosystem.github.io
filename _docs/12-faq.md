@@ -23,13 +23,14 @@ A1.1: It is advised to use the latest Libero SoC and SoftConsole versions.
 
 Q2. What licence does Development kit X work with? 
 A2.
-|Development Kit|FPGA Part|Supplied License|Minimum License|
-| -----------| -----------| -----------| -----------|
-|PolarFire Avalanche Kit |MPF300TS-FCG484E |Gold  |Silver|
-|PolarFire Evaluation Kit|MPF300TS-1FCG1152I |Gold |Silver|
-|PolarFire Splash Kit |MPF300T-1FCG484E |Gold|Silver| 
-|PolarFire Everest Kit|MPF300TS-1FCG1152EES |Gold|Silver|
-|PolarFire SoC Icicle Kit |MPFS250T-FCVG484EES |Silver| Silver|
+| Development Kit | FPGA Part  | Supplied License | Minimum License | 
+| -----------     | -----------| -----------      | -----------     |
+| PolarFire Avalanche Kit  | MPF300TS-FCG484E     | Gold   | Silver |
+| PolarFire Evaluation Kit | MPF300TS-1FCG1152I   | Gold   | Silver |
+| PolarFire Splash Kit     | MPF300T-1FCG484E     | Gold   | Silver | 
+| PolarFire Everest Kit    | MPF300TS-1FCG1152EES | Gold   | Silver |
+| PolarFire SoC Icicle Kit | MPFS250T-FCVG484EES  | Silver | Silver |
+
 
 Q3. Which version of Libero SoC and SoftConsole does the latest Icicle reference design use? 
 
