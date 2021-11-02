@@ -8,6 +8,6 @@ main:
   - title: "Training"
     url: /docs/training/     
   - title: "FAQ"
-    url:  "/docs/coming_soon/"    
+    url:  "/docs/faq/"    
   - title: "Support"
     url: /docs/support/     
