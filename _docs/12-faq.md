@@ -22,7 +22,9 @@ Q1.1 Which versions of Libero SoC and SoftConsole should be used together.
 A1.1: It is advised to use the latest Libero SoC and SoftConsole versions. 
 
 Q2. What licence does Development kit X work with? 
+
 A2.
+
 | Development Kit | FPGA Part  | Supplied License | Minimum License | 
 | -----------     | -----------| -----------      | -----------     |
 | PolarFire Avalanche Kit  | MPF300TS-FCG484E     | Gold   | Silver |
