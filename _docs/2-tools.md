@@ -17,7 +17,8 @@ excerpt: "Welcome to the Tools page."
 [PolarFire SoC MSS Configurator](https://www.microsemi.com/product-directory/soc-design-tools/5587-pfsoc-mss-configurator-tool#downloads)
 
 # SoftConsole
-[SoftConsole](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
+[SoftConsole Documentation](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/SoftConsole-v2021.3/)
+[SoftConsole Download](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
 
 # Renode 
 Please refer to the [SoftConsole Release Notes](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads) for details of how to use Renode with SoftConsole.
