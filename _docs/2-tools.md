@@ -17,14 +17,13 @@ excerpt: "Welcome to the Tools page."
 [PolarFire SoC MSS Configurator](https://www.microsemi.com/product-directory/soc-design-tools/5587-pfsoc-mss-configurator-tool#downloads)
 
 # SoftConsole
-[SoftConsole Documentation](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/SoftConsole-v2021.3/)
+[SoftConsole Documentation](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/)
 
-[SoftConsole Download](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads)
+[SoftConsole Download](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/programming-and-debug/softconsole)
 
-# Renode 
-Please refer to the [SoftConsole Release Notes](https://www.microsemi.com/product-directory/design-tools/4879-softconsole#downloads) for details of how to use Renode with SoftConsole.
+# Renode
+Please refer to the SoftConsole Release notes located in **<SC_INSTALL>/documentation/renode** folder and [SoftConsole Release Notes Renode](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/SoftConsole-v2021.3/using_softconsole/renode.html) for details on how to use Renode with SoftConsole
 
-[Renode Documents](https://renode.readthedocs.io/en/latest/)
 
 # Libero Licenses 
 [Libero License page](https://www.microsemi.com/product-directory/design-resources/1711-licensing#overview)
