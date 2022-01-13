@@ -22,9 +22,6 @@ excerpt: "Welcome to the Tools page."
 [SoftConsole Download](https://www.microchip.com/en-us/products/fpgas-and-plds/fpga-and-soc-design-tools/programming-and-debug/softconsole)
 
 # Renode
-Please refer to the Renode documentation located in **<SC_INSTALL>/documentation/renode** folder and [SoftConsole's Documentation Renode section](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/) for details on how to use Renode with SoftConsole.
-
-
 Please refer to the Renode documentation located below for details on how to use Renode with SoftConsole.
 
 * SoftConsole-Install-Directory/documents/renode
