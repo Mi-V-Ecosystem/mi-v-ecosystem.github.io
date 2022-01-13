@@ -25,6 +25,12 @@ excerpt: "Welcome to the Tools page."
 Please refer to the Renode documentation located in **<SC_INSTALL>/documentation/renode** folder and [SoftConsole's Documentation Renode section](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/) for details on how to use Renode with SoftConsole.
 
 
+Please refer to the Renode documentation located below for details on how to use Renode with SoftConsole.
+
+* SoftConsole-Install-Directory/documents/renode
+* [SoftConsole's Documentation Renode section](https://mi-v-ecosystem.github.io/SoftConsole-Documentation/SoftConsole-v2021.3/using_softconsole/renode.html
+
+
 # Libero Licenses 
 [Libero License page](https://www.microsemi.com/product-directory/design-resources/1711-licensing#overview)
 
