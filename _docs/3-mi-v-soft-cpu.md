@@ -20,6 +20,13 @@ The Mi-V Ecosystem supports the following RV32I base instruction set processors 
   
 ### Hardware platforms and boards
 The Mi-V Ecosystem supports the following hardware platforms.
+#### Firmware
+Example firmware for the MiV-RV32 is available from the 
+[Bare Metal repository](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples).
+Some examples included in this repo are:
+* Blinky 1
+* Blink 2
+* UltraBlinky 3
 
 #### Microchip PolarFire FPGAs
 * [PolarFire-Evaluation-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-Eval-Kit/)
