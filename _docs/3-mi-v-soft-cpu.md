@@ -20,19 +20,27 @@ The Mi-V Ecosystem supports the following RV32I base instruction set processors 
   
 ### Hardware platforms and boards
 The Mi-V Ecosystem supports the following hardware platforms.
-#### Firmware
-Example firmware for the MiV-RV32 is available from the 
-[Bare Metal repository](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples).
-Some examples included in this repo are:
-* Blinky 1
-* Blink 2
-* UltraBlinky 3
 
 #### Microchip PolarFire FPGAs
 * [PolarFire-Evaluation-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-Eval-Kit/)
 * [PolarFire-Splash-Kit](https://mi-v-soft-risc-v.github.io/PolarFire-FPGA-Splash-Kit/)
 * [Arrow-Everest-Board](https://mi-v-soft-risc-v.github.io/Arrow-Everest-Board/)
 * [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
+
+#### Firmware
+Example firmware for the MiV-RV32 is available from the 
+[Bare Metal repository](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples).
+Examples included in this repo are:
+* CoreGPIO
+* CoreSysServices-PF
+* CoreUARTapb
+* miv-rv32-i2c
+* miv-rv32-plic
+* miv-rv32-systick-blinky
+* miv-rv32-timer
+* miv-rv32-udma
+* miv-rv32-wdog
+* pf-user-crypto
 
 #### Microchip RTG4 FPGA
 * [RTG4-Development-Kit](https://mi-v-soft-risc-v.github.io/RTG4-Development-Kit/)
