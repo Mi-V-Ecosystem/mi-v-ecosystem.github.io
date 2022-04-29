@@ -27,6 +27,9 @@ The Mi-V Ecosystem supports the following hardware platforms.
 * [Arrow-Everest-Board](https://mi-v-soft-risc-v.github.io/Arrow-Everest-Board/)
 * [Future-Avalanche-Board](https://mi-v-soft-risc-v.github.io/Future-Avalanche-Board/)
 
+#### Microchip RTG4 FPGA
+* [RTG4-Development-Kit](https://mi-v-soft-risc-v.github.io/RTG4-Development-Kit/)
+
 #### Firmware
 Example firmware for the MiV-RV32 is available from the 
 [Bare Metal repository](https://github.com/Mi-V-Soft-RISC-V/miv-rv32-bare-metal-examples).
@@ -41,6 +44,3 @@ Examples included in this repo are:
 * miv-rv32-udma
 * miv-rv32-wdog
 * pf-user-crypto
-
-#### Microchip RTG4 FPGA
-* [RTG4-Development-Kit](https://mi-v-soft-risc-v.github.io/RTG4-Development-Kit/)
