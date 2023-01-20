@@ -1,7 +1,7 @@
 ---
 layout: forward
 permalink: /redirects/boards-mpfs-icicle-kit-es-updating-icicle-kit
-target: https://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/reference-designs-fpga-and-development-kits/icicle-kit-user-guide.md
+target: https://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/boards/mpfs-icicle-kit-es/icicle-kit-user-guide/icicle-kit-user-guide.md
 targetname: boards-mpfs-icicle-kit-es-icicle-kit-user-guide
 targettitle: taking you to boards-mpfs-icicle-kit-es-icicle-kit-user-guide
 time: 0
