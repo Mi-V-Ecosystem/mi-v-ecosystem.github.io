@@ -1,7 +1,7 @@
 ---
 layout: forward
 permalink: /redirects/demo-guides
-target: ttps://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/applications-and-demos
+target: https://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/demo-guides
 targetname: demo-guides
 targettitle: taking you to demo-guides
 time: 0

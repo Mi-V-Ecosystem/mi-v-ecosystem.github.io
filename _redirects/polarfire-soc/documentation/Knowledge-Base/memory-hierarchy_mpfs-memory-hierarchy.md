@@ -1,7 +1,7 @@
 ---
 layout: forward
 permalink: /redirects/memory-hierarchy_mpfs-memory-hierarchy
-target: https://github.com/polarfire-soc/polarfire-soc-documentation/tree/master/knowledge-base/mpfs-memory-hierarchy.md
+target: https://github.com/polarfire-soc/polarfire-soc-documentation/blob/master/memory-hierarchy/mpfs-memory-hierarchy.md
 targetname: memory-hierarchy_mpfs-memory-hierarchy
 targettitle: taking you to memory-hierarchy_mpfs-memory-hierarchy
 time: 0
